@@ -1,0 +1,27 @@
+Sezgilere en aykırı matematiksel gerçek nedir?
+
+
+İki örnek:
+
+-------Gödel Eksiklik Teoremi: 
+Ünlü Alman matematikçi David Hilbert, matematikteki tüm ispatların, belli bir sabit yöntem veya yöntemler bütünü ile, yani aksiyomatik bir sistem vasıtasıyla, 
+elde edilebileceğini düşünüyordu ve bu doğrultuda çalışmalarına başladı. 
+Temel aritmetikteki tüm doğruları, aksiyomlarından türetebilir ise, matematikteki tüm doğruları da bu aksiyom yapılarından elde edebilecekti.
+
+Hilbert'in çağdaşı olan Kurt Gödel bunun olanaksızlığını gösterdi. Bunu kısaca şu şekilde yaptı: Bu önerme ispatlanamaz ifadesini (G) aritmetik sisteminde formülize etti. Aynı şekilde G ifadenin değilini (Bu önerme ispatlanabilir) de formül ile ifade etti. Daha sonra, G ifadesinin aritmetik olarak doğruluğu hesaplanabilir ise, G ifadesinin değilinin de doğruluğunun hesaplanabileceğini gösterdi. Ve Gödel buradan şu iki sonuca varmıştır:
+
+Ögesel aritmetik içeren aksiyomatik bir sistem tutarlı ise eksiksiz değildir.
+Ögesel aritmetik içeren aksiyomatik bir sistemin tutarlılığını sistemin kendi içinden (sistemin kendi formüllerini ve işlemlerini kullanarak) ispatlamak mümkün değildir.
+İşin ilginç tarafı, bu G ifadesi sistemin içine bir aksiyom olarak yerleştirilse bile, yeni bir Gödel cümlesi çıkartılabilir. Yani ne kadar aksiyom eklersek ekleyelim, 
+böyle bir sistemde doğruluğu ya da yanlışlığı ispatlanamayacak bir Gödel cümlesi bulunacaktır.
+
+------Öklid Dışı Geometri: Öklit dışı geometriler, alışılmış iç çarpım formülünden ayrı bir biçimde tanımlanmış ve reel uzayla birleşmiş iç çarpım yoluyla elde edilen 
+geometrilerdir. Bu geometrilere Galileo ve Lorentz geometrileri örnek olarak verilebilir. Lorentz geometrisinin öne çıkan farklarından biri de iç çarpımın
+tanımlanmasında temel maddelerden biri olan pozitif tanımlılığı sağlamamasıdır. Öklit geometrisinde vektörler tek tür iken Lorentz geometrisinde space-like, 
+time-like ve null-like (light-like) olmak üzere 3 tür vektör bulunmaktadır.
+
+Öklit ve Öklit dışı geometrilerinin temel farkı paralel doğruları anlayış biçimleridir. Öklit'in beşinci postülası birbirine paralel olmayan doğruların uzatıldıklarında 
+birbirleriyle kesiceklerini söyler ancak Öklit Dışı geometride düzlemin şeklinde kaynaklı farklılıklardan bu kadar kesin bir yargı yapılamaz.
+
+-------Banach-Tarski Teoremi
+-------Olasılık
